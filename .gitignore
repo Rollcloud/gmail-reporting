@@ -1,0 +1,12 @@
+# Environments
+/*venv*/
+
+# Google API permissions
+credentials.json
+token.json
+
+# Application
+messages.csv
+
+# IDEs
+/.vscode/
