@@ -1,6 +1,6 @@
-bashplotlib 
-google-api-python-client 
-google-auth-httplib2 
-google-auth-oauthlib
-pandas
-tqdm
+bashplotlib~=0.6.5
+google-api-python-client~=2.105
+google-auth-httplib2~=0.1.1
+google-auth-oauthlib~=1.1
+pandas~=2.1
+tqdm~=4.66
