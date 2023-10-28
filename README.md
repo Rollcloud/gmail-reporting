@@ -1,3 +1,6 @@
+[![python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=FFD43B)](https://docs.python.org/3.10/)
+![gmail](https://img.shields.io/badge/gmail-API-white?style=for-the-badge&logo=gmail)
+
 # Gmail Reporting
 
 Report on (unread) emails from your Gmail account.
