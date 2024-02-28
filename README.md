@@ -22,6 +22,15 @@ pip install -r requirements.txt
 
 ## Usage
 
+Remove old files:
+
+```sh
+rm messages.csv
+rm token.json
+```
+
+Get latest data:
+
 ```sh
 $ python quickstart.py
 from_address
